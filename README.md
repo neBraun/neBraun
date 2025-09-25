@@ -14,7 +14,7 @@ Full-stack system for managing appraisal cases, documents, and client communicat
 Role-based interfaces for admin, appraiser, and client, with secure authentication and clear permission levels.  
 Key features: automatic case assignment, real-time chat, document uploads, progress tracking, and manager approval workflow.  
 Tech: C# .NET Core (MVC), React (Redux, MUI), MS SQL Server.  
-➡️ [See full details below.](#real-estate-appraisal-office-management-system)
+➡️ [See full details below.](#real-estate-appraisal-office-system)
 
 <!-- Add screenshots/demo here -->
 <!-- Example: -->
@@ -29,7 +29,7 @@ Full-stack platform for managing shared office spaces: user roles, bookings, con
 Interactive map shows real-time occupancy and client allocation.  
 Secure Google login, automated emails, dynamic pricing, accessibility, and live synchronization via WebSocket.  
 Tech: Node.js, React, PostgreSQL.  
-➡️ [See full details below.](#shared-workspace-management-system--klika-bnei-brak)
+➡️ [See full details below.](#shared-workspace-management-system)
 
 <!-- Add screenshots/demo here -->
 <!-- Example: -->
@@ -97,7 +97,7 @@ Feel free to explore my repositories for a closer look at my work!
 
 ## Comprehensive details
 
-### Real Estate Appraisal Office Management System
+### Real Estate Appraisal Office  System
 
 Full-stack system for managing appraisal processes in a real estate office.  
 Multiple role-based interfaces: Administrator, Appraiser, Client, and a Landing Page for new users.  
@@ -120,7 +120,7 @@ Architecture: Modular design with efficient communication between interfaces
 
 ---
 
-### Shared Workspace Management System – Klika, Bnei Brak
+### Shared Workspace Management System
 
 Full-stack platform for managing shared office spaces, developed for Klika, Bnei Brak Municipality.  
 Supports multi-level user management, dynamic booking, contract generation, payment processing, and diverse integrations.  
