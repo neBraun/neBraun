@@ -14,15 +14,16 @@ Full-stack system for managing appraisal cases, documents, and client communicat
 Role-based interfaces for admin, appraiser, and client, with secure authentication and clear permission levels.  
 Key features: automatic case assignment, real-time chat, document uploads, progress tracking, and manager approval workflow.  
 Tech: C# .NET Core (MVC), React (Redux, MUI), MS SQL Server.  
-![Add new application](pictures/add_new_application_assrssors.png)
 ➡️ [See full details below.](#real-estate-appraisal-office-system)
 
-<!-- Add screenshots/demo here -->
-<!-- Example: -->
-<!-- ![Dashboard Screenshot](images/appraisal_dashboard.png) -->
-<!-- ![Chat Feature](images/appraisal_chat.png) -->
-<!-- You can add 1-3 screenshots per project, preferably: main dashboard, unique feature, and user flow. -->
-
+<p align="left">
+  <img src="pictures/home_page_assessors.png" width="300"/>
+  <img src="pictures/add_new_application_assrssors.png" width="300"/>
+  <img src="pictures/edit_profile_andarchive_assessors.png" width="300"/>
+  <img src="pictures/chats_assessors.png" width="300"/>
+    <img src="pictures/customers_table_assessors.png" width="300"/>
+    <img src="pictures/add_new_assessor_assessors.png" width="300"/>
+</p>
 ---
 
 ### [Shared Workspace Management System – Klika, Bnei Brak](https://github.com/neBraun/Clicka)
@@ -32,12 +33,11 @@ Secure Google login, automated emails, dynamic pricing, accessibility, and live 
 Tech: Node.js, React, PostgreSQL.  
 ➡️ [See full details below.](#shared-workspace-management-system)
 
-<!-- Add screenshots/demo here -->
-<!-- Example: -->
-<!-- ![Workspace Map](images/klika_map.png) -->
-<!-- ![Booking Flow](images/klika_booking.png) -->
-<!-- 1-3 screenshots: main map, booking, analytics/reporting. -->
-
+<p align="left">
+  <img src="pictures/home_page_clicka.png" width="300"/>
+  <img src="pictures/map_clicka.png" width="300"/>
+  <img src="pictures/verifie_with_google_clicka.png" width="300"/>
+</p>
 ---
 
 ## 🛠️ Languages, Tools & Environments
