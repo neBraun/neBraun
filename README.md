@@ -90,7 +90,6 @@ Tech: Node.js, React, PostgreSQL.
 
 ## 📬 Contact Me
 📧 Email: ny545185@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/nechama-braun) <!-- עדיף להוסיף אם יש לך פרופיל פעיל -->
 
 Feel free to explore my repositories for a closer look at my work!
 
