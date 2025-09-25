@@ -97,7 +97,7 @@ Feel free to explore my repositories for a closer look at my work!
 
 ## Comprehensive details
 
-### Real Estate Appraisal Office  System
+### Real Estate Appraisal Office System
 
 Full-stack system for managing appraisal processes in a real estate office.  
 Multiple role-based interfaces: Administrator, Appraiser, Client, and a Landing Page for new users.  
