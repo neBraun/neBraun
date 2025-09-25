@@ -21,23 +21,29 @@ Tech: C# .NET Core (MVC), React (Redux, MUI), MS SQL Server.
   <img src="pictures/add_new_application_assrssors.png" width="300"/>
   <img src="pictures/edit_profile_andarchive_assessors.png" width="300"/>
   <img src="pictures/chats_assessors.png" width="300"/>
-    <img src="pictures/customers_table_assessors.png" width="300"/>
-    <img src="pictures/add_new_assessor_assessors.png" width="300"/>
+  <img src="pictures/customers_table_assessors.png" width="300"/>
+  <img src="pictures/add_new_assessor_assessors.png" width="300"/>
 </p>
+
 ---
 
 ### [Shared Workspace Management System – Klika, Bnei Brak](https://github.com/neBraun/Clicka)
 Full-stack platform for managing shared office spaces: user roles, bookings, contracts, payments, and analytics.  
 Interactive map shows real-time occupancy and client allocation.  
 Secure Google login, automated emails, dynamic pricing, accessibility, and live synchronization via WebSocket.  
-Tech: Node.js, React, PostgreSQL.  
+Tech: Node.js, React, PostgreSQL, Google Calendar API integration (automatic two-way sync between local calendar and office Google Calendar for bookings and updates).  
 ➡️ [See full details below.](#shared-workspace-management-system)
 
 <p align="left">
   <img src="pictures/home_page_clicka.png" width="300"/>
   <img src="pictures/map_clicka.png" width="300"/>
   <img src="pictures/verifie_with_google_clicka.png" width="300"/>
+    <img src="pictures/calendar_clicka.png" width="300"/>
+  <img src="pictures/googleCalendar_clicka.png" width="300"/>
+  <img src="pictures/google_clicka.png" width="300"/>
+
 </p>
+
 ---
 
 ## 🛠️ Languages, Tools & Environments
@@ -91,8 +97,6 @@ Tech: Node.js, React, PostgreSQL.
 ## 📬 Contact Me
 📧 Email: ny545185@gmail.com  
 
-Feel free to explore my repositories for a closer look at my work!
-
 ---
 
 ## Comprehensive details
@@ -142,16 +146,16 @@ Modular architecture and collaborative development using GIT, designed for futur
 - Full accessibility for users with disabilities
 - Real-time operation and prevention of duplicate actions via WebSocket synchronization
 - Responsive, visually appealing interfaces focused on user experience and efficiency
+- **Google Calendar Integration:** Two-way automatic sync between the local calendar and the office Google Calendar. New bookings and updates are instantly reflected in both calendars, ensuring seamless scheduling and conflict prevention.
 
 **Tech Stack:**  
 Backend: Node.js  
 Frontend: React  
 Database: PostgreSQL  
-Collaboration: GIT, modular architecture, WebSocket for real-time sync
+Collaboration: GIT, modular architecture, WebSocket for real-time sync, Google Calendar API integration
 
 ---
 
-<!-- Professional ending -->
 Thank you for visiting my profile!  
 I value clean code, teamwork, and continuous learning.  
 Feel free to reach out or explore my repositories for more details and examples of my work.
