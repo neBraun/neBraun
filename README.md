@@ -14,6 +14,8 @@ Full-stack system for managing appraisal cases, documents, and client communicat
 Role-based interfaces for admin, appraiser, and client, with secure authentication and clear permission levels.  
 Key features: automatic case assignment, real-time chat, document uploads, progress tracking, and manager approval workflow.  
 Tech: C# .NET Core (MVC), React (Redux, MUI), MS SQL Server.  
+![Dashboard Screenshot](pictures/add new application assrssors.png
+)
 ➡️ [See full details below.](#real-estate-appraisal-office-system)
 
 <!-- Add screenshots/demo here -->
