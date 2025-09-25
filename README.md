@@ -1,39 +1,73 @@
-## Nechama Braun
-## ✨ About Me
+## Nechama Braun  
 
-I'm a **Software Developer**, multitasking - managing multiple tasks at the same time, operating from an ambitious and goal-oriented ideal. Driven by challenges, self-taught and loves to learn new tools and technologies, deeply studies tasks and resolves conflicts creatively, with excellent interpersonal skills
-## 📁 Featured Projects
-• [Pandora-Jewelry-Store](https://github.com/NEitan622/Pandora-Jewelry-Store) – E2E project in SQL, C#, Angular  
-**Server side**: 3-layer architecture, dependency injection, calculated fields  
-**Client side**: FormModules, dynamic forms, Git version control  
-•[Vacation-apartment-rental-website ](https://github.com/NEitan622/Vacation-apartment-rental-website) – E2E in Node.js, React.js, MongoDB  
-**Server side**: Relationships between models, token encryption  
-**Client side**: Generic components, middleware usage  
+## ✨ About Me  
+I’m a **Software Developer**, ambitious and goal-oriented.  
+Passionate about learning new technologies, problem-solving, and building efficient, creative solutions.  
+Strong foundation in computer science, quick self-learner, and a team player with excellent interpersonal skills.  
 
+---
 
+## 📁 Featured Projects  
 
-## 🛠️ Languages and Tools
-![C](https://camo.githubusercontent.com/d35a1629940de977c889a8710227ca41e3068e9b4318f59994c9fa92fa37fd0c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67)
-![C++](https://camo.githubusercontent.com/8ade2e47872ba45fd667c66f814d288f24ecf11e9538ced13ddb22f26e9d2a40/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d706c75732d706c75732d6c6f676f2e706e67)
-![C#](https://camo.githubusercontent.com/a1a0379c849367a2e463e0b54e9473829c8b5061f7f4d94473ca0b772095ca26/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d73686172702d6c6f676f2e706e67)
-![Python](https://camo.githubusercontent.com/44a1ef98d80d8ce89d8804b0f52dad8b92616c700aa0e33583a050a1a17df4d8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e65742d6672616d65776f726b2e706e67)
-![Python](https://camo.githubusercontent.com/6bcd225ca53028d7d8730be1e673ef988b6fd3396c117e11e0545e91364bf430/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67)
-![Java](https://camo.githubusercontent.com/71024a0a83f8803c74e0b1bf6428c6d0dcf51a26f56808c503766030115c9700/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176612d636f666665652d6375702d6c6f676f2e706e67)
-![Node.js](https://camo.githubusercontent.com/754d83c6db7b05918c64b485f537f7e07aaa255b0f967a44ff19ec616fbadf51/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6e6f64656a732e706e67)
-![Angular](https://camo.githubusercontent.com/8efd6341f54fd90d66928e8a2d9f5820f9ca4fa40f9d0f40539ea30bb05d350e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616e67756c61726a732e706e67)
-![React](https://camo.githubusercontent.com/0a231a271e64d7b99093df977d12dfdd86db73d63eac0b1415b2620fe1f2726d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f72656163742d6e61746976652e706e67)
-![JavaScript](https://camo.githubusercontent.com/00dd552ba8020fc50f92364518290fc16235a7f21a5b7ddbc0a6cb2131597356/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6a6176617363726970742e706e67)
-![HTML5](https://camo.githubusercontent.com/b123b7cd1937e4fc11267e562159764bb15946dd1d23a6ef08f3803ab49da1ba/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67)
-![CSS3](https://camo.githubusercontent.com/aae5d91491e403b1f9d176ee05ee086627dc901536fb3691c389dfbf97ef9f04/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67)
-![MySQL](https://camo.githubusercontent.com/f905d223aaf7d318a2a34ab7a88bb5fadcc066e15b23be27e45c8cd06d4e8a74/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d7973716c2d6c6f676f2e706e67)
-![MongoDB](https://camo.githubusercontent.com/b010a2291f794256d711a8e237e9da2f03b54e97896ab6f1b79b3cfac0308399/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6f6e676f64622e706e67)
-![SQL Server](https://camo.githubusercontent.com/99b905accbefbf6c586bf2ab08ebf05fd3e04b4ecbb821e1662f9177b5af460b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6d6963726f736f66742d73716c2d7365727665722e706e67)
-![Docker](https://camo.githubusercontent.com/afb5efd967593eb94c36531c2d865baa2b42073fb07ddeed57940550f078ce8c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f646f636b65722e706e67)
-![Git](https://camo.githubusercontent.com/691f01d9cfcb32c562bd6137ed0c1b1364efec2b68f1e85dac7d7f56e1efa502/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6769742e706e67)
-![Linux](https://camo.githubusercontent.com/c51f55943185a3d12f4d764a686157863ba737fcf0946eec435b0d8f286d7382/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67)
-![Windows](https://camo.githubusercontent.com/230f67dfec9d87172a12c304af10bd7d2cf31c9f361d8f8539776b6ea3fa52a5/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f77696e646f77732d31302e706e67)
+- [**Pandora Jewelry Store**](https://github.com/NEitan622/Pandora-Jewelry-Store) – Full-stack project in SQL, C#, Angular  
+  **Server side:** 3-layer architecture, dependency injection, calculated fields  
+  **Client side:** FormModules, dynamic forms, Git version control  
 
-## 📬 Contact Me
-📧 Email: ny545185@gmail.com
+- [**Vacation Apartment Rental Website**](https://github.com/NEitan622/Vacation-apartment-rental-website) – Full-stack project in Node.js, React.js, MongoDB  
+  **Server side:** Model relationships, token encryption  
+  **Client side:** Generic components, middleware usage  
 
-Feel free to check out my repositories for a closer look at my work!
+---
+
+## 🛠️ Languages, Tools & Environments  
+
+**Computer Science**: Algorithms, Data Structures, Graph Theory  
+**Programming Languages**: C, C++, Java, C#, Python  
+**Web Development**: WebAPI, .NET Core, Node.js, React, Angular, JavaScript  
+**Configuration & Cloud**: AWS, GitHub  
+**Databases**: SQL, SQL Server, MongoDB  
+**IDEs & Environments**: IntelliJ, NetBeans, Eclipse, PyCharm, Visual Studio, Visual Studio Code  
+**Additional Courses**: Operating Systems, Networking & Communication, Digital Systems, Advanced Mathematics  
+
+### Icons  
+<p align="left">  
+<!-- Languages -->  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>  
+
+<!-- Web -->  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>  
+
+<!-- Cloud & Config -->  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>  
+
+<!-- Databases -->  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>  
+<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40"/>  
+
+<!-- IDEs -->  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>  
+</p>  
+
+---
+
+## 📬 Contact Me  
+📧 Email: ny545185@gmail.com  
+
+Feel free to explore my repositories for a closer look at my work!  
