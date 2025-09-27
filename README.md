@@ -1,13 +1,13 @@
 # Nechama Braun
 
-## ✨ About Me
+## About Me
 I’m a **Software Developer**, ambitious and goal-oriented.  
 Passionate about learning new technologies, problem-solving, and building efficient, creative solutions.  
 Strong foundation in computer science, quick self-learner, and a team player with excellent interpersonal skills.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [Real Estate Appraisal Office Management System](https://github.com/neBraun/Assessors)
 Full-stack system for managing appraisal cases, documents, and client communication.  
@@ -54,7 +54,7 @@ Interactive map shows real-time occupancy and client allocation.
 | **IDEs**              | Visual Studio, VS Code, PyCharm, Eclipse, NetBeans, IntelliJ |
 | **Computer Science**  | Algorithms, Data Structures, Graph Theory |
 
-### Icons
+### Visual Overview
 <p align="left">
 <!-- Languages -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
@@ -92,12 +92,12 @@ Interactive map shows real-time occupancy and client allocation.
 
 ---
 
-## 📬 Contact
-📧 Email: **ny545185@gmail.com**
+## Contact
+Email: **ny545185@gmail.com**
 
 ---
 
-## 📖 Project Details
+## Project Details
 
 ### Real Estate Appraisal Office System
 Full-stack system for managing appraisal processes in a real estate office.  
