@@ -1,17 +1,36 @@
 # Nechama Braun
 
 ## About Me
-I’m a **Software Developer**, ambitious and goal-oriented.  
-Passionate about learning new technologies, problem-solving, and building efficient, creative solutions.  
-Strong foundation in computer science, quick self-learner, and a team player with excellent interpersonal skills.
+I am a results-driven **Software Developer** with proven experience in leading development teams and delivering complex, end-to-end projects. As a high-honors graduate, I combine a strong theoretical foundation in computer science with a passion for building efficient, scalable, and creative solutions.
+
+I thrive on taking ownership, from architectural design to deployment, and excel at learning new technologies to solve challenging problems.
 
 ---
 
 ## Featured Projects
 
+### 🏆 Team Lead & Full Stack Developer | [Shared Workspace System](https://github.com/neBraun/Clicka)
+As the **Team Lead**, I guided **16 developers** in an intensive project to build a full-stack management platform for the Bnei Brak Municipality. My responsibilities included architectural design, task allocation, code reviews, and client-side communication.
+
+The platform features multi-level user management, dynamic bookings, and real-time data synchronization.
+
+**Tech:** Node.js, React, PostgreSQL, Google Calendar API, WebSocket  
+➡️ [See full details below.](#shared-workspace-management-system)
+
+<p align="left">
+  <img src="pictures/home_page_clicka.png" width="300"/>
+  <img src="pictures/map_clicka.png" width="300"/>
+  <img src="pictures/verifie_with_google_clicka.png" width="300"/>
+  <img src="pictures/calendar_clicka.png" width="300"/>
+  <img src="pictures/googleCalendar_clicka.png" width="300"/>
+  <img src="pictures/google_clicka.png" width="300"/>
+</p>
+
+---
+
 ### [Real Estate Appraisal Office Management System](https://github.com/neBraun/Assessors)
-Full-stack system for managing appraisal cases, documents, and client communication.  
-Role-based interfaces for admin, appraiser, and client, with secure authentication and clear permission levels.  
+A comprehensive full-stack system for managing appraisal cases, documents, and client communication. Features role-based interfaces for admin, appraiser, and client, with secure authentication and clear permission levels.
+
 **Tech:** C# .NET Core (MVC), React (Redux, MUI), MS SQL Server  
 ➡️ [See full details below.](#real-estate-appraisal-office-system)
 
@@ -22,23 +41,6 @@ Role-based interfaces for admin, appraiser, and client, with secure authenticati
   <img src="pictures/chats_assessors.png" width="300"/>
   <img src="pictures/customers_table_assessors.png" width="300"/>
   <img src="pictures/add_new_assessor_assessors.png" width="300"/>
-</p>
-
----
-
-### [Shared Workspace Management System – Klika, Bnei Brak](https://github.com/neBraun/Clicka)
-Full-stack platform for managing shared office spaces: user roles, bookings, contracts, payments, and analytics.  
-Interactive map shows real-time occupancy and client allocation.  
-**Tech:** Node.js, React, PostgreSQL, Google Calendar API  
-➡️ [See full details below.](#shared-workspace-management-system)
-
-<p align="left">
-  <img src="pictures/home_page_clicka.png" width="300"/>
-  <img src="pictures/map_clicka.png" width="300"/>
-  <img src="pictures/verifie_with_google_clicka.png" width="300"/>
-  <img src="pictures/calendar_clicka.png" width="300"/>
-  <img src="pictures/googleCalendar_clicka.png" width="300"/>
-  <img src="pictures/google_clicka.png" width="300"/>
 </p>
 
 ---
@@ -85,7 +87,7 @@ Interactive map shows real-time occupancy and client allocation.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/pycharm/pycharm-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
@@ -99,45 +101,42 @@ Email: **ny545185@gmail.com**
 
 ## Project Details
 
-### Real Estate Appraisal Office System
-Full-stack system for managing appraisal processes in a real estate office.  
-Multiple role-based interfaces: Administrator, Appraiser, Client, and a Landing Page for new users.  
-
-**Key Features:**
-- Automatic case assignment, progress tracking, case archiving  
-- Real-time chat & notifications between clients and appraisers  
-- Upload, update, and organize client documents  
-- Research tables for property evaluation  
-- Approval workflow with manager notifications  
-- Secure authentication and authorization  
-
-**Stack:**  
-Backend – C# .NET Core (MVC, Web API)  
-Frontend – React (Redux, Hooks, MUI)  
-Database – MS SQL Server  
-
----
-
 ### Shared Workspace Management System
 Developed for Klika, Bnei Brak Municipality.  
 Supports multi-level user management, booking, contracts, payments, and analytics.  
 
 **Key Features:**
-- Multi-role user management  
-- Dynamic booking and billing  
-- Secure payments & automated emails  
-- Interactive map with real-time occupancy view  
-- Two-way Google Calendar sync  
-- WebSocket for live updates  
+- Multi-role user management
+- Dynamic booking and billing
+- Real-time data synchronization with Google Calendar
+- Secure authentication via Google OAuth
+- Interactive map for workspace selection
+- Comprehensive admin dashboard with analytics
 
-**Stack:**  
-Backend – Node.js  
-Frontend – React  
-Database – PostgreSQL  
-Integrations – Google Calendar API, WebSocket
+**My Role & Contributions:**
+- **Team Leadership:** Led a team of 16 developers, managing task allocation, code reviews, and ensuring project milestones were met.
+- **Architecture:** Designed the system architecture, including the database schema (PostgreSQL) and API structure (Node.js).
+- **Backend:** Developed core backend logic, including user authentication, booking engine, and Google Calendar API integration.
+- **Frontend:** Contributed to the React-based user interface, focusing on the calendar and booking components.
 
----
+### Real Estate Appraisal Office System
+A full-stack system for managing appraisal cases, documents, and client communication.
 
-Thank you for visiting my profile!  
+**Key Features:**
+- Role-based access control (Admin, Appraiser, Client)
+- Secure document upload and management
+- Case tracking and status updates
+- Internal chat for seamless communication
+- Client and appraiser management dashboards
+
+**My Role & Contributions:**
+- **Full-Stack Development:** Built the application from the ground up.
+- **Backend:** Developed a robust RESTful API using C# .NET Core and Entity Framework, connected to an MS SQL Server database.
+- **Frontend:** Created a responsive and intuitive user interface with React, Redux for state management, and Material-UI for styling.
+- **Database Design:** Designed and implemented the database schema to support all application features.
+
+  ---
+
+  Thank you for visiting my profile!  
 I value clean code, teamwork, and continuous learning.  
 Feel free to reach out or explore my repositories for more details and examples of my work.
