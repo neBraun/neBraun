@@ -1,16 +1,16 @@
 # Nechama Braun
 
 ## About Me
-I am a results-driven **Software Developer** with proven experience in leading development teams and delivering complex, end-to-end projects. As a high-honors graduate, I combine a strong theoretical foundation in computer science with a passion for building efficient, scalable, and creative solutions.
+I am a **Software Developer** with experience in full-stack development and team collaboration. As a high-honors graduate, I combine a solid theoretical foundation in computer science with enthusiasm for building efficient and creative solutions.
 
-I thrive on taking ownership, from architectural design to deployment, and excel at learning new technologies to solve challenging problems.
+I enjoy working on challenging projects, learning new technologies, and contributing to team success from design to deployment.
 
 ---
 
 ## Featured Projects
 
-### 🏆 Team Lead & Full Stack Developer | [Shared Workspace System](https://github.com/neBraun/Clicka)
-As the **Team Lead**, I guided **16 developers** in an intensive project to build a full-stack management platform for the Bnei Brak Municipality. My responsibilities included architectural design, task allocation, code reviews, and client-side communication.
+### 🏆 Full Stack Developer | [Shared Workspace System](https://github.com/neBraun/Clicka)
+I worked as part of a **16-developer team** in an intensive project to build a full-stack management platform for the Bnei Brak Municipality. My responsibilities included development tasks, participating in code reviews, and collaborating with team members.
 
 The platform features multi-level user management, dynamic bookings, and real-time data synchronization.
 
@@ -87,7 +87,7 @@ A comprehensive full-stack system for managing appraisal cases, documents, and c
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/pycharm/pycharm-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 </p>
@@ -114,10 +114,10 @@ Supports multi-level user management, booking, contracts, payments, and analytic
 - Comprehensive admin dashboard with analytics
 
 **My Role & Contributions:**
-- **Team Leadership:** Led a team of 16 developers, managing task allocation, code reviews, and ensuring project milestones were met.
-- **Architecture:** Designed the system architecture, including the database schema (PostgreSQL) and API structure (Node.js).
-- **Backend:** Developed core backend logic, including user authentication, booking engine, and Google Calendar API integration.
-- **Frontend:** Contributed to the React-based user interface, focusing on the calendar and booking components.
+- **Team Collaboration:** Worked closely with a team of 16 developers, participating in task planning, code reviews, and ensuring project milestones were met.
+- **Backend Development:** Contributed to core backend logic, including user authentication, booking engine, and Google Calendar API integration.
+- **Frontend Development:** Helped develop the React-based user interface, focusing on the calendar and booking components.
+- **Database Work:** Participated in designing and implementing the PostgreSQL database schema.
 
 ### Real Estate Appraisal Office System
 A full-stack system for managing appraisal cases, documents, and client communication.
@@ -131,12 +131,12 @@ A full-stack system for managing appraisal cases, documents, and client communic
 
 **My Role & Contributions:**
 - **Full-Stack Development:** Built the application from the ground up.
-- **Backend:** Developed a robust RESTful API using C# .NET Core and Entity Framework, connected to an MS SQL Server database.
-- **Frontend:** Created a responsive and intuitive user interface with React, Redux for state management, and Material-UI for styling.
+- **Backend:** Developed a RESTful API using C# .NET Core and Entity Framework, connected to an MS SQL Server database.
+- **Frontend:** Created a user interface with React, Redux for state management, and Material-UI for styling.
 - **Database Design:** Designed and implemented the database schema to support all application features.
 
-  ---
+---
 
-  Thank you for visiting my profile!  
+Thank you for visiting my profile!  
 I value clean code, teamwork, and continuous learning.  
 Feel free to reach out or explore my repositories for more details and examples of my work.
