@@ -1,20 +1,48 @@
 # Nechama Braun
 
 ## About Me
-I am a **Software Developer** with experience in full-stack development and team collaboration. As a high-honors graduate, I combine a solid theoretical foundation in computer science with enthusiasm for building efficient and creative solutions.
 
-I enjoy working on challenging projects, learning new technologies, and contributing to team success from design to deployment.
+I am a **Full Stack Software Engineer** with end-to-end experience designing, building and delivering enterprise web applications.
+
+I enjoy turning complex business processes into secure, scalable and intuitive software, combining software architecture, full-stack development and business thinking to create solutions that make a real impact.
+
+As a high-honors software engineering graduate, I bring strong analytical thinking, fast learning and a hands-on approach to solving complex technical challenges.
 
 ---
 
 ## Featured Projects
 
+### 🏆 Enterprise Management Platform | [Ezri Meim](https://github.com/neBraun/Ezri-Meim)
+
+Architected and developed a centralized enterprise platform for managing complex organizational workflows, replacing fragmented manual processes with a unified system.
+
+Designed a secure RBAC/RLS authorization architecture, scalable REST APIs, relational database structure and extensive business automation.
+
+Led a team of 4 developers while making architectural decisions, coordinating development and integrating Google Workspace services and external APIs.
+
+**Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Supabase, Tailwind CSS
+
+➡️ [View Repository](https://github.com/neBraun/Ezri-Meim)  
+➡️ [See full details below.](#ezri-meim-enterprise-management-platform)
+
+<p align="left">
+  <!-- Add Ezri Meim screenshots to pictures/ezri_meim/ -->
+  <img src="pictures/ezri_meim/dashboard.png" width="300"/>
+  <img src="pictures/ezri_meim/patients.png" width="300"/>
+  <img src="pictures/ezri_meim/permissions.png" width="300"/>
+</p>
+
+---
+
 ### 🏆 Full Stack Developer | [Shared Workspace System](https://github.com/neBraun/Clicka)
-I worked as part of a **16-developer team** in an intensive project to build a full-stack management platform for the Bnei Brak Municipality. My responsibilities included development tasks, participating in code reviews, and collaborating with team members.
 
-The platform features multi-level user management, dynamic bookings, and real-time data synchronization.
+Developed as part of a **16-developer team** in an intensive project to build a full-stack management platform for Bnei Brak Municipality.
 
-**Tech:** Node.js, React, PostgreSQL, Google Calendar API, WebSocket  
+Contributed to backend services, REST APIs, database design, Google Calendar integration and real-time data synchronization.
+
+**Tech:** Node.js, React, PostgreSQL, Google Calendar API, WebSocket
+
+➡️ [View Repository](https://github.com/neBraun/Clicka)  
 ➡️ [See full details below.](#shared-workspace-management-system)
 
 <p align="left">
@@ -28,10 +56,15 @@ The platform features multi-level user management, dynamic bookings, and real-ti
 
 ---
 
-### [Real Estate Appraisal Office Management System](https://github.com/neBraun/Assessors)
-A comprehensive full-stack system for managing appraisal cases, documents, and client communication. Features role-based interfaces for admin, appraiser, and client, with secure authentication and clear permission levels.
+### Real Estate Appraisal Office Management System
 
-**Tech:** C# .NET Core (MVC), React (Redux, MUI), MS SQL Server  
+Designed and developed a full-stack system for managing appraisal cases, documents and client communication.
+
+Built the REST API, database architecture and React application, including role-based access, case tracking and internal communication.
+
+**Tech:** C#, .NET Core, Entity Framework, React, Redux, MUI, MS SQL Server
+
+➡️ [View Repository](https://github.com/neBraun/Assessors)  
 ➡️ [See full details below.](#real-estate-appraisal-office-system)
 
 <p align="left">
@@ -47,96 +80,207 @@ A comprehensive full-stack system for managing appraisal cases, documents, and c
 
 ## 🛠 Tech Stack
 
-| Category              | Technologies |
-|-----------------------|--------------|
-| **Programming**       | C, C++, Java, C#, Python |
-| **Web Development**   | JavaScript, React, Angular, Node.js, .NET Core, WebAPI |
-| **Databases**         | SQL, SQL Server, MongoDB |
-| **Cloud & Tools**     | AWS, GitHub |
-| **IDEs**              | Visual Studio, VS Code, PyCharm, Eclipse, NetBeans, IntelliJ |
-| **Computer Science**  | Algorithms, Data Structures, Graph Theory |
+### Languages & Frameworks
 
-### Visual Overview
 <p align="left">
-<!-- Languages -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-
-<!-- Web -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-
-<!-- Cloud & Config -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-
-<!-- Databases -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="40" height="40"/>
-
-<!-- IDEs -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
 </p>
+
+### Databases & Cloud
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
+</p>
+
+### Tools & Development
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40" height="40"/>
+</p>
+
+**Core:** Algorithms, Data Structures, OOP, Design Patterns, REST APIs, Database Design, Authentication & Authorization, Git, Cloud Deployment, AI-Assisted Development
 
 ---
 
 ## Contact
+
 Email: **ny545185@gmail.com**
+git: **https://github.com/neBraun/neBraun**
+---
+
+# Project Details
+
+## Ezri Meim Enterprise Management Platform
+
+A full-stack enterprise management platform designed to centralize and automate complex organizational workflows.
+
+The system replaces fragmented spreadsheets, manual processes and disconnected files with a unified platform for managing patients, donors, employees, events, tasks, documents, surveys, communications and organizational operations.
+
+### Key Features
+
+- Centralized management of organizational workflows
+- Role-Based Access Control (RBAC)
+- Row-Level Security (RLS) at the database level
+- Fine-grained permissions for entities and operations
+- Automated business workflows and email notifications
+- Patient and donor management
+- Events and calendar management
+- Task management with automated reminders
+- Surveys, letters and document management
+- Expense and income tracking
+- Google Workspace integrations
+- Google Calendar integration
+- Google Drive integration
+- Google Forms integration
+- Google Forums integration
+- External API integrations
+- File management and document organization
+- Export capabilities
+- Responsive administrative dashboards
+
+### Security Architecture
+
+Designed and implemented the authorization architecture from the ground up using **RBAC + RLS**.
+
+The system separates:
+
+- Users
+- Employees
+- Roles
+- Permissions
+- Employee-role relationships
+- Role-permission relationships
+
+Database-level **Row-Level Security policies** validate every protected operation through permission checks before allowing access to data.
+
+The frontend also dynamically adapts to the user's permissions, controlling accessible screens, tabs and actions.
+
+This creates multiple layers of authorization between the user interface, application logic and database.
+
+### My Role & Contributions
+
+- **Architecture:** Designed the overall system architecture and technical approach.
+- **Full-Stack Development:** Developed both backend and frontend components.
+- **Team Leadership:** Led and coordinated a team of 4 developers, divided tasks and reviewed implementation.
+- **Backend:** Developed Node.js/Express services and REST APIs.
+- **Frontend:** Developed React + TypeScript interfaces using modern state-management and data-fetching patterns.
+- **Database:** Designed PostgreSQL schemas, views, functions and security policies using Supabase.
+- **Security:** Designed and implemented RBAC, RLS and permission-based access control.
+- **Integrations:** Implemented integrations with Google Workspace services and external APIs.
+- **Automation:** Designed automated workflows and notification processes to reduce manual organizational work.
+- **Architecture Decisions:** Researched and selected technologies, patterns and architectural approaches according to project requirements.
+
+**Tech:** React, TypeScript, Node.js, Express, PostgreSQL, Supabase, Tailwind CSS, Google APIs
 
 ---
 
-## Project Details
+## Shared Workspace Management System
 
-### Shared Workspace Management System
-Developed for Klika, Bnei Brak Municipality.  
-Supports multi-level user management, booking, contracts, payments, and analytics.  
+Developed for **Klika, Bnei Brak Municipality** as part of an intensive 3-month project.
 
-**Key Features:**
-- Multi-role user management
+The platform provides centralized management of shared workspaces, bookings, contracts, payments and organizational operations.
+
+### Key Features
+
+- Multi-level user management
 - Dynamic booking and billing
-- Real-time data synchronization with Google Calendar
-- Secure authentication via Google OAuth
-- Interactive map for workspace selection
-- Comprehensive admin dashboard with analytics
+- Real-time data synchronization
+- Google Calendar integration
+- Secure Google OAuth authentication
+- Interactive workspace map
+- Administrative dashboard
+- Analytics and reporting
 
-**My Role & Contributions:**
-- **Team Collaboration:** Worked closely with a team of 16 developers, participating in task planning, code reviews, and ensuring project milestones were met.
-- **Backend Development:** Contributed to core backend logic, including user authentication, booking engine, and Google Calendar API integration.
-- **Frontend Development:** Helped develop the React-based user interface, focusing on the calendar and booking components.
-- **Database Work:** Participated in designing and implementing the PostgreSQL database schema.
+### My Role & Contributions
 
-### Real Estate Appraisal Office System
-A full-stack system for managing appraisal cases, documents, and client communication.
+- **Team Collaboration:** Worked within a 16-developer team, coordinating development activities and participating in code reviews.
+- **Backend Development:** Developed backend logic and REST API services.
+- **Frontend Development:** Contributed to the React-based application, including calendar and booking functionality.
+- **Database:** Participated in PostgreSQL database design and complex queries.
+- **Integration:** Implemented bidirectional communication with Google Calendar API.
+- **Real-Time Features:** Worked with WebSocket-based synchronization.
+- **Agile:** Worked with Sprints, task planning, Git and collaborative development workflows.
+- **Mentoring:** Provided technical guidance and supported team members during development.
 
-**Key Features:**
-- Role-based access control (Admin, Appraiser, Client)
-- Secure document upload and management
-- Case tracking and status updates
-- Internal chat for seamless communication
-- Client and appraiser management dashboards
-
-**My Role & Contributions:**
-- **Full-Stack Development:** Built the application from the ground up.
-- **Backend:** Developed a RESTful API using C# .NET Core and Entity Framework, connected to an MS SQL Server database.
-- **Frontend:** Created a user interface with React, Redux for state management, and Material-UI for styling.
-- **Database Design:** Designed and implemented the database schema to support all application features.
+**Tech:** Node.js, React, PostgreSQL, Google Calendar API, WebSocket, Git
 
 ---
 
-Thank you for visiting my profile!  
-I value clean code, teamwork, and continuous learning.  
-Feel free to reach out or explore my repositories for more details and examples of my work.
+## Real Estate Appraisal Office System
+
+A full-stack management system designed to manage appraisal cases, documents and communication between office staff, appraisers and clients.
+
+### Key Features
+
+- Role-based access control
+- Multiple user roles
+- Case tracking and status management
+- Document management
+- Client and appraiser management
+- Internal communication
+- Administrative dashboards
+- Secure data management
+
+### My Role & Contributions
+
+- **Full-Stack Development:** Designed and developed the application end-to-end.
+- **Backend:** Developed RESTful APIs using C# .NET Core and Entity Framework.
+- **Database:** Designed and implemented the MS SQL Server database.
+- **SQL:** Developed complex queries and stored procedures and worked on database performance optimization.
+- **Frontend:** Developed the React application using Redux, Hooks and Material UI.
+- **Architecture:** Implemented a layered 3-Tier architecture.
+- **UI:** Built responsive, business-oriented interfaces with attention to pixel-perfect implementation.
+
+**Tech:** C#, .NET Core, Entity Framework, Web API, React, Redux, MUI, MS SQL Server
+
+---
+
+## Other Projects
+
+### Automated Lottery System
+
+Developed an automated lottery management system using:
+
+**Tech:** Node.js, Angular 19, MongoDB
+
+---
+
+## Education
+
+**Software Engineering | 2023–2024**
+
+High-honors graduate of the **Kamatech Code Ultra** software engineering program.
+
+**Software Engineering Practical Engineer – מה"ט**  
+Graduated with an average of **98**.
+
+---
+
+## Languages
+
+**Hebrew:** Native  
+**English:** Professional working proficiency
+
+---
+
+Thank you for visiting my profile!
+
+I value clean architecture, continuous learning, effective teamwork and building software that solves real problems.
