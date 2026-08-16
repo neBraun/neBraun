@@ -27,9 +27,13 @@ Led a team of 4 developers while making architectural decisions, coordinating de
 
 <p align="left">
   <!-- Add Ezri Meim screenshots to pictures/ezri_meim/ -->
-  <img src="pictures/ezri_meim/dashboard.png" width="300"/>
-  <img src="pictures/ezri_meim/patients.png" width="300"/>
-  <img src="pictures/ezri_meim/permissions.png" width="300"/>
+  <img src="pictures/events.Ezri-Meim.png" width="300"/>
+  <img src="pictures/sendEmail.Ezri-Meim.png" width="300"/>
+  <img src="pictures/roles.Ezri-Meim.png" width="300"/>
+  <img src="pictures/dashboard.Ezri-Meim.png" width="300"/>
+  <img src="pictures/tasks.Ezri-Meim.png" width="300"/>
+  <img src="pictures/calendar.Ezri-Meim.png" width="300"/>
+
 </p>
 
 ---
